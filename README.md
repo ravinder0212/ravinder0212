@@ -5,45 +5,7 @@
 Focused on building real-world projects using **Embedded Systems, IoT, and Programming**.  
 Passionate about **ESP32, Python, C, and Electronics Integration**.
 
----
 
-### 🔭 I’m currently working on
-- Embedded Systems Projects
-- IoT based applications
-- ESP32 microcontroller projects
-
-### 🌱 I’m currently learning
-- Embedded C
-- Python Programming
-- IoT System Design
-
-### 👯 I’m looking to collaborate on
-- Embedded Systems projects
-- IoT innovations
-- Open-source electronics projects
-
-### 🤝 I’m looking for help with
-- Advanced Embedded Systems
-- Hardware–Software Integration
-
-### 💬 Ask me about
-- ESP32
-- C Programming
-- Python Basics
-- Electronics
-
-### ⚡ Fun fact
-- I enjoy turning ideas into real hardware projects.
-
----
-
-### 🛠️ Languages and Tools
-- C
-- Python
-- ESP32
-- Arduino
-- Embedded Systems
-- Electronics
 # 💫 About Me:
 Electronics and Communication Engineering Student<br>Passionate about VLSI, Programming, and Problem Solving<br>Currently working on ESP32-CAM based security and IoT projects<br>Interested in VLSI and Software Development<br><br>
 
