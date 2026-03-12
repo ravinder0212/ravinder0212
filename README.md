@@ -1,9 +1,4 @@
-#                                         Hi 👋, I'm Ravinder
 
-###                     ECE Student | Embedded Systems Enthusiast | Problem Solver
-
-                Focused on building real-world projects using **Embedded Systems, IoT, and Programming**.  
-                Passionate about **ESP32, Python, C, and Electronics Integration**.
 
 
 # 💫 About Me:
