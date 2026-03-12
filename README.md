@@ -18,7 +18,22 @@ Computer Science & Electronics Learner | Aspiring VLSI & Software Engineer
 
 
 # 💫 About Me:
-Electronics and Communication Engineering Student<br>Passionate about VLSI, Programming, and Problem Solving<br>Currently working on ESP32-CAM based security and IoT projects<br>Interested in VLSI and Software Development<br><br>
+Electronics and Communication Engineering Student<br>Passionate about VLSI, Programming, and Problem Solving<br>Currently working on ESP32-CAM based security and IoT projects<br>Interested in VLSI and Software Development<br><br> 
+## 🛠️ Skills
+
+- **Programming:** HTML, CSS, Python, C, Assembly Language, C++
+- **Embedded Systems:** ESP32, Arduino, Sensors, IoT
+- **Core Subjects:** Digital Electronics, Communication Systems, Microprocessors
+- **Tools:** Git, GitHub, VS Code, MULTISIM, MATLAB, Cadence Verilog HDL, Python IDLE (Basic)
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Embedded Systems
+- Data Structures and Algorithms
+- IoT and Automation
+
 
 
 ## 🌐 Socials:
@@ -36,17 +51,3 @@ Electronics and Communication Engineering Student<br>Passionate about VLSI, Prog
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🛠️ Skills
-
-- **Programming:** HTML, CSS, Python, C, Assembly Language, C++
-- **Embedded Systems:** ESP32, Arduino, Sensors, IoT
-- **Core Subjects:** Digital Electronics, Communication Systems, Microprocessors
-- **Tools:** Git, GitHub, VS Code, MULTISIM, MATLAB, Cadence Verilog HDL, Python IDLE (Basic)
-
----
-
-## 📚 Currently Learning
-
-- Advanced Embedded Systems
-- Data Structures and Algorithms
-- IoT and Automation
