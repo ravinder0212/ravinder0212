@@ -19,7 +19,7 @@ Computer Science & Electronics Learner | Aspiring VLSI & Software Engineer
 
 # 💫 About Me:
 Electronics and Communication Engineering Student<br>Passionate about VLSI, Programming, and Problem Solving<br>Currently working on ESP32-CAM based security and IoT projects<br>Interested in VLSI and Software Development<br><br> 
-#Skills
+Skills
 
 - **Programming:**  Python, C, Assembly Language, C++
 - **Embedded Systems:** ESP32, Arduino, Sensors, IoT
@@ -28,7 +28,7 @@ Electronics and Communication Engineering Student<br>Passionate about VLSI, Prog
 
 ---
 
-# Currently Learning
+ Currently Learning
 
 -  verlog HDL
 - Data Structures and Algorithms
