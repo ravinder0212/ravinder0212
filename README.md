@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jaswanth Reddy</h1>
+<h1 align="center">Hi 👋, I'm Ravinder</h1>
 
 <h3 align="center">
-ECE Student • Embedded Systems Enthusiast • Problem Solver
+ECE Student • VLSI Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
