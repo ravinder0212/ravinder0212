@@ -5,7 +5,7 @@ ECE Student • VLSI Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
-Focused on building real-world projects using Embedded Systems, IoT, and Programming.  
+Focused on building real-world projects using VLSI, IoT, and Programming.  
 Passionate about ESP32, Python, C, and Electronics integration.
 </p>
 
@@ -19,18 +19,18 @@ Computer Science & Electronics Learner | Aspiring VLSI & Software Engineer
 
 # 💫 About Me:
 Electronics and Communication Engineering Student<br>Passionate about VLSI, Programming, and Problem Solving<br>Currently working on ESP32-CAM based security and IoT projects<br>Interested in VLSI and Software Development<br><br> 
-## 🛠️ Skills
+#Skills
 
-- **Programming:** HTML, CSS, Python, C, Assembly Language, C++
+- **Programming:**  Python, C, Assembly Language, C++
 - **Embedded Systems:** ESP32, Arduino, Sensors, IoT
 - **Core Subjects:** Digital Electronics, Communication Systems, Microprocessors
-- **Tools:** Git, GitHub, VS Code, MULTISIM, MATLAB, Cadence Verilog HDL, Python IDLE (Basic)
+- **Tools:** Git, GitHub, VS Code, MULTISIM, MATLAB, Cadence Verilog HDL, Python ,VS code
 
 ---
 
-## 📚 Currently Learning
+# Currently Learning
 
-- Advanced Embedded Systems
+-  verlog HDL
 - Data Structures and Algorithms
 - IoT and Automation
 
