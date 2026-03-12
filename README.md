@@ -1,3 +1,19 @@
+<h1 align="center">Hi 👋, I'm Jaswanth Reddy</h1>
+
+<h3 align="center">
+ECE Student • Embedded Systems Enthusiast • Problem Solver
+</h3>
+
+<p align="center">
+Focused on building real-world projects using Embedded Systems, IoT, and Programming.  
+Passionate about ESP32, Python, C, and Electronics integration.
+</p>
+
+<p align="center">
+Computer Science & Electronics Learner | Aspiring Embedded & Software Engineer
+</p>
+
+---
 
 
 
