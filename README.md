@@ -31,8 +31,6 @@ Skills
 - **Core Subjects:** Digital Electronics, Communication Systems, Microprocessors
 - **Tools:** Git, GitHub, VS Code, MULTISIM, MATLAB, Cadence Verilog HDL, Python ,VS code
 
----
-
  Currently Learning
 
 -  verlog HDL
