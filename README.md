@@ -1,9 +1,9 @@
-# Hi 👋, I'm Jashwanth Reddy
+#                                         Hi 👋, I'm Ravinder
 
-### ECE Student | Embedded Systems Enthusiast | Problem Solver
+###                     ECE Student | Embedded Systems Enthusiast | Problem Solver
 
-Focused on building real-world projects using **Embedded Systems, IoT, and Programming**.  
-Passionate about **ESP32, Python, C, and Electronics Integration**.
+                Focused on building real-world projects using **Embedded Systems, IoT, and Programming**.  
+                Passionate about **ESP32, Python, C, and Electronics Integration**.
 
 
 # 💫 About Me:
