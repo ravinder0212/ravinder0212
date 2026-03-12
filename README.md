@@ -10,7 +10,7 @@ Passionate about ESP32, Python, C, and Electronics integration.
 </p>
 
 <p align="center">
-Computer Science & Electronics Learner | Aspiring Embedded & Software Engineer
+Computer Science & Electronics Learner | Aspiring VLSI & Software Engineer
 </p>
 
 ---
@@ -33,6 +33,9 @@ Electronics and Communication Engineering Student<br>Passionate about VLSI, Prog
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ravinder0212&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🛠️ Skills
 
 - **Programming:** HTML, CSS, Python, C, Assembly Language, C++
@@ -47,5 +50,3 @@ Electronics and Communication Engineering Student<br>Passionate about VLSI, Prog
 - Advanced Embedded Systems
 - Data Structures and Algorithms
 - IoT and Automation
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
